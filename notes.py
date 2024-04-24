@@ -7,6 +7,17 @@
 # pip install mysql-connector
 # pip install mysql-connector-python
 
+# to create webpage there is three step process:
+    # 1. create template file (html page)
+    # 2. create urls
+    # 3. create view
+
+
+
+
+
+
+# original commands for creating database through code
 import mysql.connector
 
 dataBase = mysql.connector.connect(
